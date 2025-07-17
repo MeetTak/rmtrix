@@ -5,7 +5,7 @@ class Rmtrix < Formula
   
   if OS.mac?
     url "https://github.com/meettak/rmtrix/releases/download/v#{version}/rmtrix-shadow-#{version}.zip"
-    sha256 "REPLACE_WITH_ACTUAL_SHA256"
+    sha256 "9a67d38821e6d1acb96435a684941bd2630b55eecd6eaa0379a4f2212aaf48e5"
   end
 
   depends_on "openjdk@17"
