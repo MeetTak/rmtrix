@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.github.meettak
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, graalvm, gradle, http-client, java, logback, micronaut-build, picocli, picocli-java-application, picocli-spock, properties, readme, serialization-jackson, shade, spock]
