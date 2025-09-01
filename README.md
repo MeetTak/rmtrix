@@ -134,7 +134,7 @@ build/native/nativeCompile/rmtrix -s ollama
     ```
 3. Now you can run the CLI from anywhere:
     ```bash
-    rmtrix Search -s ollama
+    rmtrix Search -s <filename>
     ```
 
 ---
